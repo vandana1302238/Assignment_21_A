@@ -13,13 +13,13 @@ This repo contains related files
 
 ## Results
 
-The code is trained in colab and the training file is **S21.ipynb**
+The code is trained in kaggle and the training file is **S21.ipynb**
 Hugging space link: https://huggingface.co/spaces/Vvaann/Assignment_21_A
 
 
 - Steps - 5000
 - Number of tokens = 1024
-- loss obtained =
+- loss obtained = 0.3
 
 
 ![training images](training.png)
